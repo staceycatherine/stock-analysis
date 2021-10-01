@@ -4,3 +4,7 @@ The purpose of this analysis is to help determine which stocks would be a good i
 ### Results
 Using the initial code, we were able to see that the DQ stocks are not a good investment for Steve's parents.After refactoring, we verified the results of refactored code are the same as the initial code. We captured the run-time of the analysis for 2017 and 2018 using the refactored code and included the PNG in the resource file. 
 
+![2017 Table](https://user-images.githubusercontent.com/89313168/135659565-c6c0e00b-d755-4471-93a1-19ddf12dea0d.PNG)
+![2017 Timer](https://user-images.githubusercontent.com/89313168/135659594-9de3f4d7-40dc-402e-bb39-04ba9adc0e1b.PNG)
+![2018 Table](https://user-images.githubusercontent.com/89313168/135659609-2d686597-09b4-4efe-8bc6-2e5efec6f729.PNG)
+![2018 Timer](https://user-images.githubusercontent.com/89313168/135659625-9fc3239c-0bb8-459b-b926-1aee0fb7e9d5.PNG)
